@@ -21,6 +21,9 @@ func sayChannel(text string, c chan<- string) {
 	c <- text
 }
 func main() {
+	//a := make(map[int][]string)
+	//lsa[0] = []string{"ss", ""}
+
 	//interfaces()
 	// punteros()
 	//accesibilidad()
