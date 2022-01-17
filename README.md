@@ -13,3 +13,10 @@ export GOROOT=/usr/local/go
 export PATH=$PATH:$GOBIN:$GOROOT/bin
 # reiniciar la consola
 source ~/.bashrc
+
+
+# crear modulos con go, en la carpeta /home/ubuntu/go/src/gobasico
+go mod init gobasico
+
+# instalar paquete tour en /home/ubuntu/go/src/gobasico
+go get golang.org/x/website/tour 
