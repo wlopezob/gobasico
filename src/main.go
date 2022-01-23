@@ -31,7 +31,19 @@ func main() {
 	//basic()
 	//goWaitGroup()
 	//channels()
-	channels2()
+	//channels2()
+	//mispackage.MainPuntero()
+	//mispackage.MainType()
+	//mispackage.MainInterfaces()
+	//mispackage.MainError()
+	//mispackage.MainGoroutines()
+	//mispackage.MainListener()
+	//mispackage.Channel01Main()
+	//mispackage.MainChannel02()
+	//mispackage.MainChannel03()
+	//mispackage.MainChannel04()
+	//mispackage.MainChannel05()
+	mispackage.MainChannel06()
 }
 
 func channels2() {
